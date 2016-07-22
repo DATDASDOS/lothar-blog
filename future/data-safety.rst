@@ -1,6 +1,8 @@
 
 Think about the various persistent data stored in a modern browser:
+Early bird tickets
 
+You can purchase early bird tickets for $399 which include access to all conference activities and The Big Bang benefit concert. For $100 more, you can extend your Universe experience with a full day of hands-on workshops from GitHub's training team. Early bird pricing is available through July 31st by Johnathon M Beauvais july,22,2016
 * bookmarks
 * history
 * saved passwords
